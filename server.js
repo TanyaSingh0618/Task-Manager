@@ -22,4 +22,4 @@ app.listen(port, console.log(`server is listening ${port}`));
 //app.post('/api/v1/tasks')      -create a new task
 //app.get('/api/v1/tasks/:id')   -get single task
 //app.put('/api/v1/tasks/:id')   -update task
-//app.delete('/api/v1/tasks')    -delete task
+//app.delete('/api/v1/tasks/:id')    -delete task
